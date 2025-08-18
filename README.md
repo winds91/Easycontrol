@@ -1,4 +1,4 @@
-# 易控(Easycontrol)
+# 易控(Easycontrol) ⚠️请注意此仓库为克隆仓库，且不再更新⚠️
 
 ## 注意
  Gitee和GitHub代码将保持同步，请自行选择。
